@@ -101,17 +101,8 @@ It already proves the main product idea:
 
 ## 7. Good next features
 
-After this works, add these in order:
-
 1. chat history saved in a database
 2. authentication with Google
-3. PDF and lecture note upload
 4. flashcard generator
 5. quiz generator
 6. subject-specific tutor modes
-7. admin dashboard for usage and feedback
-
-## 8. Important note
-
-Keep the Gemini API key only on the server.
-Never expose it in the browser or commit it to GitHub.
